@@ -2,7 +2,7 @@
 Oriented Bounding Box
 **********************************
 
-.. figure:: image.png
+.. figure:: oriented-bounding-box.png
     :figclass: figure
     :class: figure-img img-fluid
 
